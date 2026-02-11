@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nextjs and Backend Projects<br>👯 I’m looking to collaborate on Full Stack Projects <br>🤝 I’m looking for help with system design & scalable architecture  <br>🌱 I’m currently learning DSA in Python and AWS  <br>💬 Ask me about backend, REST APIs, deployment <br>⚡ Fun fact: I love turning ideas into apps 🚀<br>
+🔭 I’m currently working on Nextjs and Backend Projects and power automate/powerapps also <br>👯 I’m looking to collaborate on Full Stack Projects <br>🤝 I’m looking for help with system design & scalable architecture  <br>🌱 I’m currently learning DSA in Python and AWS  <br>💬 Ask me about backend, REST APIs, deployment <br>⚡ Fun fact: I love turning ideas into apps 🚀<br>
 
 
 ## 🌐 Socials:
